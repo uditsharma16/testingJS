@@ -1,0 +1,20 @@
+{
+    "name": "test_vscode",
+    "version": "1.0.0",
+    "description": "node app ",
+    "main": "app.js",
+    "scripts": {
+    "start": "node test1.js"
+  },
+    "repository": {
+    "type": "git",
+    "url": ""
+  },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": ""
+  },
+    "homepage": ""
+  }
+  
